@@ -1,10 +1,14 @@
 
 本地仓库与远程仓库初次对应
-  # 增加一个新的远程仓库，并命名
+  1.# 增加一个新的远程仓库，并命名
   $ git remote add [shortname] [url]
   [shortname]远程仓库的别名，一般为origin
   [url]远程仓库的地址
   git remote add origin https://github.com/AndyQiao/makefile_test.git
+
+　2.push本地git至github远程仓库
+  git push origin master
+  
 
 修改文件后提交代码到远程仓库
   1.# 添加当前目录的所有文件到暂存区
