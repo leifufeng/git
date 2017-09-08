@@ -46,8 +46,8 @@ git pull命令
 http://www.yiibai.com/git/git_pull.html
 
 
-
-
+git warning: LF will be replaced by CRLF in 解决办法
+http://blog.csdn.net/u011935939/article/details/50624791
 
 
 
