@@ -33,17 +33,17 @@ http://www.yiibai.com/git/git_push.html
  git pull
  http://www.yiibai.com/git/git_pull.html
 
+将已有项目提交到github/从github上pull到本地
+http://blog.csdn.net/u013365671/article/details/45364101
 
+Git-远程分支，远程跟踪分支，跟踪分支的区别
+http://blog.csdn.net/zhuyucheng123/article/details/55045339
 
+git 查看远程分支、本地分支、创建分支、把分支推到远程repository、删除本地分支
+http://blog.csdn.net/arkblue/article/details/9568249/
 
-
-
-
-
-
-
-
-
+git pull命令
+http://www.yiibai.com/git/git_pull.html
 
 
 
