@@ -9,5 +9,5 @@ git clone https://github.com/leifufeng/git.git
 git add .
 从本地的暂存区提交的本地的仓库
 git commit -m "add a minglin file"
-从本地的仓库提交到远程仓库
+从本地的仓库提交到远程仓库（会让填写github账号密码）
 git push origin master
