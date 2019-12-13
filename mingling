@@ -1,4 +1,13 @@
+安装好git后要进行设置
 git config --global user.name "leifufeng"
 git config --global user.email "1500447979@qq.com"
 
+从github克隆项目
 git clone https://github.com/leifufeng/git.git
+
+修改完项目后要提交到本地的暂存区
+git add .
+从本地的暂存区提交的本地的仓库
+git commit -m "add a minglin file"
+从本地的仓库提交到远程仓库
+git push origin master
